@@ -1,7 +1,7 @@
 ﻿l_french:
- game_rule_category_travl_travelers: "Travelers"
+ game_rule_category_travl_travelers: "Voyageurs"
 
- rule_travl_travel_messages: "#P Travelers:#! Messages de voyage"
+ rule_travl_travel_messages: "#P Voyageurs :#! Messages de voyage"
  setting_travl_travel_messages_disabled: "#high Désactivé#!"
  setting_travl_travel_messages_disabled_desc: "Les messages de départ, d'arrivée et d'événement pour les personnages d'intérêt sont désactivés."
  setting_travl_travel_messages_enabled: "Activé"
@@ -9,13 +9,13 @@
  setting_travl_travel_messages_events_only: "#high Événements uniquement#!"
  setting_travl_travel_messages_events_only_desc: "Seuls les messages d'événement pour les personnages d'intérêt sont activés."
 
- rule_travl_travel_events: "#P Travelers:#! Événements pour les personnages sans terre"
+ rule_travl_travel_events: "#P Voyageurs :#! Événements pour les personnages sans terre"
  setting_travl_travel_events_disabled: "#high Désactivé#!"
  setting_travl_travel_events_disabled_desc: "Événements pour les personnages sans terre sont désactivés."
  setting_travl_travel_events_enabled: "Activé"
  setting_travl_travel_events_enabled_desc: "Événements pour les personnages sans terre sont activés."
 
- rule_travl_travel_safety: "#P Travelers:#! Sécurité des voyages"
+ rule_travl_travel_safety: "#P Voyageurs :#! Sécurité des voyages"
  setting_travl_travel_safety_default: "Par défaut"
  setting_travl_travel_safety_default_desc: "La sécurité des voyages n'est pas augmentée pour les voyages provoqués par ce mod par rapport aux voyages vanille."
  setting_travl_travel_safety_high: "#high Haute#!"
@@ -23,7 +23,7 @@
  setting_travl_travel_safety_very_high: "#high Très haute#!"
  setting_travl_travel_safety_very_high_desc: "La sécurité des voyages est augmentée de 40 pour tous les voyages provoqués par ce mod."
 
- rule_travl_interaction_range: "#P Travelers:#! Portée d'interaction 'Inviter des personnages à la Cour'"
+ rule_travl_interaction_range: "#P Voyageurs :#! Portée d'interaction 'Inviter des personnages à la Cour'"
  setting_travl_interaction_range_small: "#high Petite#!"
  setting_travl_interaction_range_small_desc: "Les personnages à portée diplomatique et situés dans un rayon de 150 pixels de la carte sont répertoriés (le plus vite)."
  setting_travl_interaction_range_medium: "#high Moyenne#!"
@@ -37,13 +37,13 @@
  setting_travl_interaction_range_all: "Portée diplomatique"
  setting_travl_interaction_range_all_desc: "Tous les personnages à portée diplomatique sont répertoriés (le plus lent)."
 
- rule_travl_teleport_detector_events: "#P Travelers:#! Événements du traqueur de localisation"
+ rule_travl_teleport_detector_events: "#P Voyageurs :#! Événements du traqueur de localisation"
  setting_travl_teleport_detector_events_disabled: "Désactivé"
  setting_travl_teleport_detector_events_disabled_desc: "Les événements du traqueur de localisation sont désactivés (plus vite, les téléportations peuvent se produire dans de très rares cas)."
  setting_travl_teleport_detector_events_enabled: "#high Activé#!"
  setting_travl_teleport_detector_events_enabled_desc: "Les événements du traqueur de localisation sont activés (plus lentement,les téléportations sont converties en voyages)."
 
- rule_travl_teleport_detector_interval: "#P Travelers:#! Intervalle du traqueur de localisation"
+ rule_travl_teleport_detector_interval: "#P Voyageurs :#! Intervalle du traqueur de localisation"
  setting_travl_teleport_detector_interval_01: "#high 1 jour#!"
  setting_travl_teleport_detector_interval_01_desc: "Le traqueur de localisation s'active tous les jours (le plus lent, toujours précis)."
  setting_travl_teleport_detector_interval_02: "#high 2 jours#!"
